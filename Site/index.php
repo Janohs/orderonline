@@ -96,7 +96,7 @@
     </div>
   </div>
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Copyright © 2022 Online Food Order system | <a href="https://www.youtube.com/c/Nowdemy/" target="_blank">NOWDEMY</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Web Programming Project</a></div></div>
         </footer>
         
        <?php include('footer.php') ?>
